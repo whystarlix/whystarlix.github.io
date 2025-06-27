@@ -54,7 +54,7 @@ style = "github-light"
 [[menu.main]]
 name = "Download"
 weight = 2
-url = "posts/"
+url = "download/"
 
 [[menu.main]]
 name = "Authors"
