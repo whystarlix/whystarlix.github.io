@@ -1,0 +1,62 @@
+baseurl = "https://whystarlix.github.io"
+title = "CustomDroid"
+theme = "hugo-coder"
+languagecode = "en"
+defaultcontentlanguage = "en"
+
+pagination.pagerSize = 20
+
+[markup.highlight]
+style = "github-light"
+
+[params]
+  author = "CustomDroid Team"
+  info = "We are working to make your gaming experience better using BlueStacks"
+  description = "CustomDroid website"
+  keywords = "blog,developer,personal"
+  #avatarurl = "images/avatar.png"
+  #gravatar = "whystarlix@gmail.com"
+
+  faviconSVG = "/img/favicon.svg"
+  favicon_32 = "/img/favicon-32x32.png"
+  favicon_16 = "/img/favicon-16x16.png"
+
+  since = 2025
+
+  enableTwemoji = true
+
+  colorScheme = "auto"
+  hidecolorschemetoggle = false
+
+  # customCSS = ["css/custom.css"]
+  # customSCSS = ["scss/custom.scss"]
+  # customJS = ["js/custom.js"]
+
+[taxonomies]
+  category = "categories"
+  series = "series"
+  tag = "tags"
+  author = "authors"
+
+# Social links
+[[params.social]]
+  name = "Telegram"
+  icon = "fa-brands fa-telegram fa-2x"
+  weight = 1
+  url = "https://t.me/onesmiled"
+
+# Menu links
+[[menu.main]]
+  name = "About"
+  weight = 1
+  url = "about/"
+
+[[menu.main]]
+name = "Download"
+weight = 2
+url = "posts/"
+
+[[menu.main]]
+name = "Authors"
+weight = 3
+url = "contact/"
