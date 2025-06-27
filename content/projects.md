@@ -1,6 +1,6 @@
 +++
-title = "Projects"
-slug = "projects"
+title = "Download"
+slug = "download"
 +++
 
-I have created, contributed to and participated in many small projects. Here are some projects I'm proud of:
+Remember, i'm not responsible for any damage you made to your BlueStacks or any files. Here is download link:
